@@ -1,0 +1,95 @@
+
+body {
+    background-color: black;
+}
+h1 {
+	letter-spacing: 5px;
+    color: white;
+    text-align: center;
+	
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+	text-align: Center;
+	color: white;
+}
+
+.header { 
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://pbs.twimg.com/media/DFNpJkcV0AAWhy0.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 450px;
+
+}
+
+.introduction {
+	padding-top: 50px; 
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://s2.glbimg.com/XnsT8-_TBbpVWSWRmm3_Vqt8Td4=/0x0:2048x1280/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/M/5/oKtQkgQAe0AGHLzUR37Q/chester-bennington-linkin-park.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 400px;
+}
+
+.list {
+font-family: verdana;
+color:white;
+}
+
+.topfive {
+	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://static.omelete.uol.com.br/media/extras/conteudos/Linkin_m5xOklS.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 800px;
+}
+
+/* icones redes sociais */
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Configuração de cada ícone */
+
+/* Facebook */
+.fa-facebook {
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    color: white;
+}
+
+/* instagram */
+.fa-instagram {
+    color: white;
+}
+
+/* youtube */
+.fa-youtube {
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
